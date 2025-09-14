@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Calendar, MapPin, Building2, Github, ExternalLink, Linkedin } from "lucide-react";
+import { Calendar, MapPin, Building2, Github, ExternalLink } from "lucide-react";
 
 export const Experience: React.FC = () => {
   const experiences = [
